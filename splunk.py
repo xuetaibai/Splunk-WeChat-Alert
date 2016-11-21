@@ -3,8 +3,8 @@
 #Auther:xwjr.com
 import urllib2,sys,gzip,csv,json
 
-CorpID = "wx5d814254ec559053"
-Secret = "FOPk4InFkBg1ju6_MwYqKrLtXaAQbR7GD_8QgtpaNlayvHFdz6-_NjeZ9gHN1zJG"
+CorpID = "wx5d89053"
+Secret = "FOPk4It7GD_8QgtpaNlayvHFdz6-_NjeZ9gHN1zJG"
 ToTag = "9"
 AgentID = "1"
 get_AccessToken = "https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=%s&corpsecret=%s" % (CorpID, Secret)
