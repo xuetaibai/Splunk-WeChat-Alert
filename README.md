@@ -6,7 +6,9 @@ splunk微信告警脚本
 #### 环境要求  
 1. 需要注册微信企业号  
 [点击注册](https://qy.weixin.qq.com/)   
+
 #### 使用  
+
 1. 下载  
 ```shell
 git clone https://github.com/XWJR-Ops/Splunk-WeChat-Alert.git
