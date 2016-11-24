@@ -6,10 +6,6 @@ splunk微信告警脚本
 #### 环境要求  
 1. 需要注册微信企业号  
 [点击注册](https://qy.weixin.qq.com/)
-2. 安装python组件  
-```shell
-pip install simplejson
-```
 #### 使用  
 1. 下载  
 ```shell
